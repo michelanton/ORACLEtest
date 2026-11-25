@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "citation": "Il faut cultiver notre jardin.",
+    "auteur": "Voltaire",
+    "source": "Candide",
+    "categorie": "Philosophie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 2,
+    "citation": "Le cœur a ses raisons que la raison ne connaît point.",
+    "auteur": "Blaise Pascal",
+    "source": "Pensées",
+    "categorie": "Philosophie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 3,
+    "citation": "Rien ne sert de courir ; il faut partir à point.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Lièvre et la Tortue",
+    "categorie": "Sagesse",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 4,
+    "citation": "On a souvent besoin d’un plus petit que soi.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Lion et le Rat",
+    "categorie": "Relations",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 5,
+    "citation": "Patience et longueur de temps font plus que force ni que rage.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Lion et le Rat",
+    "categorie": "Patience",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 6,
+    "citation": "La raison du plus fort est toujours la meilleure.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Loup et l’Agneau",
+    "categorie": "Société",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 7,
+    "citation": "Tout flatteur vit aux dépens de celui qui l’écoute.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Corbeau et le Renard",
+    "categorie": "Sagesse",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 8,
+    "citation": "Aide-toi, le ciel t’aidera.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Chartier embourbé",
+    "categorie": "Courage",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 9,
+    "citation": "Un tiens vaut, ce dit-on, mieux que deux tu l’auras.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Petit Poisson et le Pêcheur",
+    "categorie": "Sagesse",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 10,
+    "citation": "Il ne faut point juger des gens sur l’apparence.",
+    "auteur": "Jean de La Fontaine",
+    "source": "Le Paysan du Danube",
+    "categorie": "Relations",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 11,
+    "citation": "Je pense, donc je suis.",
+    "auteur": "René Descartes",
+    "source": "Discours de la méthode",
+    "categorie": "Philosophie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 12,
+    "citation": "Que sais-je ?",
+    "auteur": "Michel de Montaigne",
+    "source": "Essais, livre II, chapitre 12",
+    "categorie": "Philosophie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 13,
+    "citation": "Parce que c’était lui, parce que c’était moi.",
+    "auteur": "Michel de Montaigne",
+    "source": "Essais, De l’amitié",
+    "categorie": "Amitié",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 14,
+    "citation": "Science sans conscience n’est que ruine de l’âme.",
+    "auteur": "François Rabelais",
+    "source": "Pantagruel",
+    "categorie": "Philosophie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 15,
+    "citation": "Le mieux est l’ennemi du bien.",
+    "auteur": "Voltaire",
+    "source": "La Bégueule",
+    "categorie": "Sagesse",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 16,
+    "citation": "Ce que l’on conçoit bien s’énonce clairement.",
+    "auteur": "Nicolas Boileau",
+    "source": "L’Art poétique",
+    "categorie": "Créativité",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 17,
+    "citation": "Vingt fois sur le métier remettez votre ouvrage.",
+    "auteur": "Nicolas Boileau",
+    "source": "L’Art poétique",
+    "categorie": "Persévérance",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 18,
+    "citation": "Le temps s’en va, le temps s’en va, ma dame.",
+    "auteur": "Pierre de Ronsard",
+    "source": "Sonnets pour Hélène",
+    "categorie": "Poésie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 19,
+    "citation": "Demain, dès l’aube, à l’heure où blanchit la campagne, je partirai.",
+    "auteur": "Victor Hugo",
+    "source": "Les Contemplations",
+    "categorie": "Poésie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 20,
+    "citation": "La chair est triste, hélas ! et j’ai lu tous les livres.",
+    "auteur": "Stéphane Mallarmé",
+    "source": "Brise marine",
+    "categorie": "Poésie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 21,
+    "citation": "Il pleure dans mon cœur comme il pleut sur la ville.",
+    "auteur": "Paul Verlaine",
+    "source": "Romances sans paroles",
+    "categorie": "Poésie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 22,
+    "citation": "De la musique avant toute chose.",
+    "auteur": "Paul Verlaine",
+    "source": "Art poétique",
+    "categorie": "Art",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 23,
+    "citation": "Ô temps ! suspends ton vol.",
+    "auteur": "Alphonse de Lamartine",
+    "source": "Le Lac",
+    "categorie": "Poésie",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 24,
+    "citation": "Va, je ne te hais point.",
+    "auteur": "Pierre Corneille",
+    "source": "Le Cid",
+    "categorie": "Amour",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 25,
+    "citation": "À vaincre sans péril, on triomphe sans gloire.",
+    "auteur": "Pierre Corneille",
+    "source": "Le Cid",
+    "categorie": "Courage",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 26,
+    "citation": "Le devoir est d’aimer.",
+    "auteur": "Victor Hugo",
+    "source": "Les Contemplations",
+    "categorie": "Amour",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 27,
+    "citation": "Après la pluie, le beau temps.",
+    "auteur": "Proverbe français",
+    "source": "Tradition populaire",
+    "categorie": "Espoir",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 28,
+    "citation": "Petit à petit, l’oiseau fait son nid.",
+    "auteur": "Proverbe français",
+    "source": "Tradition populaire",
+    "categorie": "Persévérance",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 29,
+    "citation": "Qui ne risque rien n’a rien.",
+    "auteur": "Proverbe français",
+    "source": "Tradition populaire",
+    "categorie": "Courage",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  },
+  {
+    "id": 30,
+    "citation": "L’union fait la force.",
+    "auteur": "Proverbe",
+    "source": "Tradition populaire",
+    "categorie": "Relations",
+    "droits": "Domaine public présumé",
+    "verification": "À vérifier"
+  }
+]
